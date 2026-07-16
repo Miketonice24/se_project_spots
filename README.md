@@ -15,5 +15,4 @@ Spots is a responsive image-sharing webpage built with HTML and CSS. It includes
 ## Deployment
 
 This webpage is deployed to GitHub Pages.
-
-[Deployment Link](http://127.0.0.1:5500/se_project_sports/se_project_sports/index.html)
+[Deployment Link](https://miketonice24.github.io/se_project_sports/)
